@@ -9,3 +9,8 @@ Erwerbstätigkeit in Deutschland aus einer Excel-Arbeitsmappe in ein Sternschema
 Es wird zwischen sql und python passend zu den Verarbeitungsanforderungen gewechselt.
 
 Begleitend sind eine Studienarbeit und eine Präsentation vorhanden.
+
+
+### Lizenz
+Dieses Projekt steht unter der [Creative Commons Namensnennung – Nicht-kommerziell 4.0 International Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de).  
+Eine Nutzung ist nur mit Namensnennung und nicht-kommerziell gestattet.
